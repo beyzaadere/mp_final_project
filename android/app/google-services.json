@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206034566784",
+    "project_id": "tedarikproject",
+    "storage_bucket": "tedarikproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206034566784:android:9923b2f850e7b969d2b065",
+        "android_client_info": {
+          "package_name": "com.example.tedarikproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dlSEa9AuugKCZy6sC0LH05UAshMi60Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
